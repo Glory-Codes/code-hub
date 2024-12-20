@@ -1,0 +1,9 @@
+DevOps is a methodology that combines software development and IT operations
+ to improve and shorten the development life cycle of systems.
+  It's a combination of practices, tools, and cultural philosophies that help organizations deliver applications and services faster than traditional methods
+
+
+
+
+
+
