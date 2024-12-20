@@ -1,0 +1,13 @@
+DevOps tools streamline collaboration between development and operations teams by automating processes and improving efficiency. Here's a quick overview of key DevOps tools:
+
+Git: Version control system for tracking code changes.
+Jenkins: Automation server for continuous integration/continuous deployment (CI/CD).
+Docker: Containerization platform to build, ship, and run applications consistently.
+Kubernetes: Orchestration tool for managing containers at scale.
+Ansible: Configuration management tool for automating IT tasks.
+Terraform: Infrastructure as Code (IaC) tool for provisioning and managing infrastructure.
+Prometheus: Monitoring system for metrics and alerts.
+Grafana: Visualization tool for monitoring data.
+Nagios: Network and server monitoring solution.
+ELK Stack (Elasticsearch, Logstash, Kibana): For log analysis and visualization.
+These tools enhance automation, scalability, and reliability in software development and deployment.
